@@ -8,6 +8,6 @@ public class Class2Test {
 	@Test
 	public void class1() {
 		
-		Reporter.log("*************Hi Dipti****************", true);
+		Reporter.log("*************Hi Jerry****************", true);
 	}
 }
